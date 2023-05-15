@@ -40,7 +40,6 @@ public class Generator {
             }
         }
 
-        System.out.println(edgeList.size());
         return edgeList;
     }
 
